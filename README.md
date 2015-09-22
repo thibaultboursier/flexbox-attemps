@@ -1,2 +1,2 @@
-# flexbox-attemps
+# flexbox-attempts
 Discovering Flexbox CSS3
