@@ -1,0 +1,33 @@
+html{
+    font-size:100%;
+}
+
+body{
+    background-color:darkslateblue;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container{
+    margin:0 auto;
+    margin-top:30px;
+    width:960px;
+    background-color:lightgrey;
+    box-sizing:border-box;
+    display:flex;
+    display:-webkit-flex;
+    display:-moz-box;
+    flex-direction:row;
+    -webkit-flex-direction:row;
+    -moz-flex-direction:row;
+    align-items: center;
+}
+
+.container > h1{
+    color:darkslateblue;
+    font-size:2.8rem;
+}
+
+.container .flex-item{
+    padding:15px;
+}
+
